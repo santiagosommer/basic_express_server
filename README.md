@@ -8,8 +8,6 @@ This server generates a band name using your street address and pet name when su
 2. Install express.
 
 ```bash
-npm install
-```
-```bash
-npm run dev
+1. npm install
+2. npm run dev
 ```
